@@ -23,3 +23,72 @@ Type 'motivate me' to continue.
 You : motivate me
 Bot : Your only limit is your mindset.
 --------------------------------------------------
+You : hello
+Bot : Greetings! Hope you're having a great day!
+--------------------------------------------------
+You : help
+Bot : Displayed Help Menu
+--------------------------------------------------
+You : joke
+Bot : Why did the developer go broke? Because he used up all his cache.
+--------------------------------------------------
+You : motivate me
+Bot : Never stop learning because life never stops teaching.
+--------------------------------------------------
+You : help
+Bot : Displayed Help Menu
+--------------------------------------------------
+You : history
+Bot : Viewed Chat History
+--------------------------------------------------
+You : stats
+Bot : Viewed Statistics
+--------------------------------------------------
+You : date
+Bot : 01-08-2026
+--------------------------------------------------
+You : time
+Bot : 09:36:01 PM
+--------------------------------------------------
+You : python
+Bot : Python is a high-level, interpreted programming language widely used in AI, Data Science, Web Development, and Automation.
+--------------------------------------------------
+You : java
+Bot : Java is an object-oriented programming language known for portability using the JVM.
+--------------------------------------------------
+You : java
+Bot : Java is an object-oriented programming language known for portability using the JVM.
+--------------------------------------------------
+You : ai
+Bot : Artificial Intelligence enables machines to simulate human intelligence such as learning, reasoning, and decision-making.
+--------------------------------------------------
+You : machine learning
+Bot : Machine Learning is a subset of AI where systems learn patterns from data without being explicitly programmed.
+--------------------------------------------------
+You : html
+Bot : HTML is the standard markup language used for creating web pages.
+--------------------------------------------------
+You : deep learning
+Bot : Deep Learning is a subset of Machine Learning based on artificial neural networks.
+--------------------------------------------------
+You : css
+Bot : CSS is used to style HTML webpages.
+--------------------------------------------------
+You : javascript
+Bot : Java is an object-oriented programming language known for portability using the JVM.
+--------------------------------------------------
+You : react
+Bot : React is a JavaScript library for building user interfaces.
+--------------------------------------------------
+You : sql
+Bot : SQL is used to create, manage, and query relational databases.
+--------------------------------------------------
+You : fact
+Bot : The first computer bug was an actual moth.
+--------------------------------------------------
+You : calculate 2*3
+Bot : 6
+--------------------------------------------------
+You : exit
+Bot : Goodbye Bharath! 👋 Have a wonderful day.
+--------------------------------------------------
