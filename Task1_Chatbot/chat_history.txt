@@ -1,0 +1,25 @@
+You : hello
+Bot : Hello! 👋 Nice to meet you.
+--------------------------------------------------
+You : python
+Bot : Python is a high-level, interpreted programming language widely used in AI, Data Science, Web Development, and Automation.
+--------------------------------------------------
+You : stats
+Bot : Viewed Statistics
+--------------------------------------------------
+You : joke
+Bot : Why did the developer go broke? Because he used up all his cache.
+--------------------------------------------------
+You : calculate 2*3
+Bot : 6
+--------------------------------------------------
+You : fact
+Bot : SQL stands for Structured Query Language.
+--------------------------------------------------
+You : motivation
+Bot : Did you mean 'motivate me' ?
+Type 'motivate me' to continue.
+--------------------------------------------------
+You : motivate me
+Bot : Your only limit is your mindset.
+--------------------------------------------------
