@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+chat_history.txt
+.vscode/
+.env
